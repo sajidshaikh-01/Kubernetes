@@ -1,7 +1,7 @@
 # Kubernetes 
 
 ## 📘 What is Kubernetes?
-kubernetes is a just controller 
+**kubernetes is a just controller 
 **Kubernetes (K8s)** is an open-source container orchestration platform that automates:
 
 * Deployment
