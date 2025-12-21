@@ -176,4 +176,3 @@ spec:
 ```
 
 
-* 20+ Deployment interview questions
