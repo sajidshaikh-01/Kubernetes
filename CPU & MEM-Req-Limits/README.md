@@ -245,8 +245,3 @@ Memory oversubscription = guaranteed crashes.
 ---
 
 
-
-* A diagram
-* OOMKill scenarios
-* Resource optimization cheat sheet
-* Real production YAML templates
