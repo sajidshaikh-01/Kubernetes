@@ -1,4 +1,4 @@
-# Kubernetes RBAC — Explained Simply with Production Usage & Best Practices
+# Kubernetes RBAC — 
 ---
 ## 1️⃣ What is RBAC?
 
