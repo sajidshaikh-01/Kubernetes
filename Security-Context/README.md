@@ -1,6 +1,6 @@
 <img width="1431" height="861" alt="image" src="https://github.com/user-attachments/assets/98336300-0040-41dd-9f95-f275e69dc9e4" />
 
-# Kubernetes Security Context – Complete Production Guide
+# Kubernetes Security Context –
 ---
 ## 1. What is Security Context
 
