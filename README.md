@@ -126,4 +126,5 @@ A web app + a log collector → both inside same Pod.
 
 
 
-If you want next: *ReplicaSet*, *Deployments*, *Service types*, *Ingress*, etc. just tell me!
+
+
