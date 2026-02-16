@@ -121,7 +121,6 @@ A **Pod** is the smallest deployable unit in Kubernetes.
 
 ### Example:
 
-A web app + a log collector → both inside same Pod.
 
 
 
