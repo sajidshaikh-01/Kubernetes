@@ -119,7 +119,7 @@ A **Pod** is the smallest deployable unit in Kubernetes.
 * Monitoring sidecar
 * Proxy containers
 
-### Example:
+
 
 
 
